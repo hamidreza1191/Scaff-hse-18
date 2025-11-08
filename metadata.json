@@ -1,0 +1,5 @@
+{
+  "name": "Scaffolding HSE Management",
+  "description": "An application for HSE officers to manage, inspect, and report on scaffolding structures in a gas refinery. It features user-specific dashboards, smart reminders, and various data export options.",
+  "requestFramePermissions": []
+}
